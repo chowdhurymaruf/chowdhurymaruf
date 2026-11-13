@@ -5,7 +5,7 @@
 
 I'm a Computer Science & Engineering student at **American International University-Bangladesh (AIUB)**, passionate about technology, problem-solving, and building things that make a difference.
 
-Currently exploring different areas of software development, experimenting with new technologies, and turning ideas into projects — one line of code at a time.
+Currently exploring different areas of software development, experimenting with new technologies, and turning ideas into projects, one line of code at a time.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=58A6FF&width=500&lines=Learning.+Building.+Evolving.;Exploring+AI%2C+Software+%26+Technology;Always+curious%2C+always+building.)](https://git.io/typing-svg)
 
