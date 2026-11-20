@@ -58,10 +58,10 @@ Currently exploring different areas of software development, experimenting with 
 ### `$ ls ./projects`
 
 | Project | Description | Tech |
-|:--|:--|:--|
+|:--|:--|:--|:--|
 | Restaurant Management System | Restaurant operations management application | C# |
 | Home Rental Service | A home rental service application | Java |
-| Lumen | Currently in development ✨ | TBD |
+| Lumen | A peer to peer skill sharing platform | HTML, CSS, Javascript, PHP |
 
 *And many more ideas in the pipeline...*
 
